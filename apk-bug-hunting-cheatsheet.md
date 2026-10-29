@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./bughunter.jpg" width="250" alt="SEC-ACEH Logo"/>
+</p>
+
 # APK BUG BOUNTY HUNTING - WORKFLOW ANTI-DUPLICATE
 # Lab: InsecureBankv2 (Practice) -> Real Target (HackerOne/Bugcrowd)
 # Author: Debker Journey - Kali Linux
