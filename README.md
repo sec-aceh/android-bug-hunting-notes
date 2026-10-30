@@ -1,10 +1,9 @@
 # 🛡️ SEC-ACEH | Android & AI Bug Hunting
 ### From Blangpidie, Aceh Barat Daya to the World 🌍
 
-![Focus](https://img.shields.io/badge/Focus-AI%20Bug%20Hunting-red?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Android%20APK-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Blangpidie%2C%20Aceh-blue?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/Focus-AI%20Bug%20Hunting-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-Android%20APK-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Location-Blangpidie%2C%20Aceh-blue?style=for-the-badge">
 > Documenting my journey learning Android penetration testing and LLM security from Blangpidie.
 
 ## 🔥 Labs Completed
@@ -19,12 +18,6 @@
 - `jadx` - Decompile APK
 - `grep / rg` - Hunt secrets
 - `frida` - Dynamic instrumentation
-- Python simulator for AI vuln labs
-
-## 📂 Files
-- `ai-bug-hunting-cheatsheet.md` - Commands to hunt API keys
-- `lab2-prompt-injection-simulator.py` - Vulnerable AI simulator
-- `prompt-injection-lab.md` - Payload list
 
 ---
-**Built by SEC-ACEH - Blangpidie, Aceh, Indonesia - 2026**
+**Built by SEC-ACEH - Blangpidie, Aceh - 2026**
